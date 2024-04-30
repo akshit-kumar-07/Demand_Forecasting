@@ -1,4 +1,4 @@
-cat <<EOF > README.md
+
 # Demand Forecasting Case Study
 
 ## Overview
@@ -36,6 +36,4 @@ To address the problem statement, the following steps will be undertaken:
 ## License
 This project is licensed under the GNU License
 
----
-*This README template is adapted from [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).*
-EOF
+
