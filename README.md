@@ -25,12 +25,7 @@ To address the problem statement, the following steps will be undertaken:
 
 
 
-## Getting Started
-1. Clone this repository: \`git clone https://github.com/your_username/demand-forecasting.git\`
-2. Install the required dependencies: \`pip install -r requirements.txt\`
-3. Explore the provided dataset and notebooks in the \`notebooks\` directory.
-4. Follow the notebooks for detailed analysis, preprocessing, modeling, and evaluation.
-5. Experiment with different models and hyperparameters for improved forecasting accuracy.
+
 
 
 ## License
